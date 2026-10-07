@@ -1,6 +1,6 @@
 ## Hi, I'm Samiya :)
 
-Computer Science and Project Management @ UofG
+Computer Science @ UofG
 
 Seeking Winter 2027 & Summer 2027 internship opportunities
 
