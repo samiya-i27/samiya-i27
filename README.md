@@ -4,4 +4,4 @@ Third-year Computer Science @ UofG
 
 Seeking Winter 2027 & Summer 2027 internship opportunities
 
-Connect with me at **[simran03@uoguelph.ca](mailto:simran03@uoguelph.ca)**
+Connect with me at **[samiyaimran46@gmail.com](mailto:samiyaimran46@gmail.com)**
