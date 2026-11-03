@@ -1,5 +1,3 @@
-# samiya-i27 / README.md
-
 ```bash
 $ whoami
 samiya imran
