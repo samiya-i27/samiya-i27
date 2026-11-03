@@ -1,7 +1,18 @@
-## Hi, I'm Samiya :)
+# samiya-i27 / README.md
 
-Third-year Computer Science @ UofG
+```bash
+$ whoami
+samiya imran
 
-Seeking Winter 2027 & Summer 2027 internship opportunities
+$ cat about.txt
+third-year cs student @ university of guelph
+interests: interactive web, machine learning
+open to: winter 2027 · summer 2027
 
-Connect with me at **[samiyaimran46@gmail.com](mailto:samiyaimran46@gmail.com)**
+$ ls experience/
+synk/  uofg-ccmps/  socis/  uofg-ccs/  achev/
+
+$ cat links.txt
+```
+
+[email](mailto:samiyaimran27@gmail.com)
