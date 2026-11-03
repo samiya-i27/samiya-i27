@@ -1,4 +1,4 @@
-```bash
+```console
 $ whoami
 samiya imran
 
